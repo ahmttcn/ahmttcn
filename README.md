@@ -21,7 +21,7 @@
 
 I am an experienced **Automotive Software Engineer** bridging the gap between hardware and high-level software applications. My expertise spans from low-level embedded development and intricate protocol analysis to creating robust desktop tools for diagnostics and simulation.
 
-Due to the proprietary nature of my work in the automotive industry (NDA), most of my contributions are in private repositories. I specialize in **Reverse Engineering** complex systems and developing solutions for **ECU communication**.
+Due to the proprietary nature of my work in the automotive industry (NDA), most of my detailed contributions are in **private repositories**. I specialize in **Reverse Engineering** complex systems and developing solutions for **ECU communication**.
 
 ---
 
@@ -62,9 +62,9 @@ I operate across the full stack of automotive development, organized by domain:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmttcn&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="180" alt="stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmttcn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="180" alt="streak" />
 </div>
 
 ---
