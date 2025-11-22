@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation" />
 </div>
 
-<h1 align="center">Merhaba, Ben [Adın] 👋</h1>
+<h1 align="center">Merhaba, Ben Ahmet 👋</h1>
 <h3 align="center">Automotive Software Engineer | Embedded Systems | Reverse Engineering</h3>
 
 <p align="center">
