@@ -6,7 +6,7 @@
 <h3 align="center">Automotive Software Engineer | Embedded Systems | Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[KullanıcıAdın]&label=Profile%20Views&color=red&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmttcn&label=Profile%20Views&color=red&style=flat" alt="views" />
 </p>
 
 ---
