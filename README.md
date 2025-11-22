@@ -1,63 +1,74 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&vCenter=true&width=500&lines=Automotive+Software+Engineer;Reverse+Engineering+Specialist;Embedded+Systems+%26+Tool+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
-<h1 align="center">Selam, Ben Ahmet! (ahmttcn) 👋</h1>
-<h3 align="center">Automotive Software Engineer | Embedded Systems | Reverse Engineering</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmttcn&label=Profile%20Views&color=red&style=flat" alt="views" />
-</p>
-
----
-
-### 👨‍💻 Hakkımda
-
-Genellikle **gizlilik sözleşmesi (NDA)** kapsamında kurumsal otomotiv projeleri üzerinde çalışıyorum. Bu yüzden GitHub üzerindeki "Public" aktivitem, gerçek iş yükümü ve kodlama yoğunluğumu tam yansıtmayabilir.
-
-- 🔭 Şu anda **Otomotiv Haberleşme Protokolleri (CAN/UDS)** ve araç içi gömülü yazılımlar üzerine profesyonel çözümler geliştiriyorum.
-- 🛠️ Uzmanlık alanım: **ECU Haberleşmesi**, **Tersine Mühendislik** ve **Tanılama (Diagnostics)** araçları.
-- 💻 Hem **Gömülü (C/C++)** hem de **Masaüstü Tool (C#/.NET)** tarafında hibrit çalışıyorum.
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/ahmttcn">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ahmttcn@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Teknoloji ve Protokol Yetkinlikleri
+### 🚀 Professional Summary
 
-**💻 Yazılım Dilleri & IDE**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,vb,git&perline=10" />
-  </a>
-</p>
+I am an experienced **Automotive Software Engineer** bridging the gap between hardware and high-level software applications. My expertise spans from low-level embedded development and intricate protocol analysis to creating robust desktop tools for diagnostics and simulation.
 
-**🚗 Otomotiv Protokolleri & Niş Uzmanlıklar**
+Due to the proprietary nature of my work in the automotive industry (NDA), most of my contributions are in private repositories. I specialize in **Reverse Engineering** complex systems and developing solutions for **ECU communication**.
+
+---
+
+### 🛠️ Technical Arsenal
+
+I operate across the full stack of automotive development, organized by domain:
+
+#### 🔌 Embedded & Low-Level
+> *Direct hardware interaction, firmware development, and memory manipulation.*
 <p align="left">
-  <img src="https://img.shields.io/badge/Protocol-CAN_Bus-orange?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Protocol-CAN_FD-FF5722?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Protocol-FlexRay-blue?style=for-the-badge&logo=network" />
-  <img src="https://img.shields.io/badge/Diagnostics-UDS_(ISO_14229)-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Reverse_Engineering-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
+#### 🚗 Automotive Protocols & Diagnostics
+> *Deep understanding of vehicle networks and communication standards.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Protocol-CAN_Bus-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protocol-CAN_FD-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protocol-FlexRay-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-UDS_(ISO_14229)-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-OBD_II-green?style=for-the-badge" />
+</p>
+
+#### 💻 Desktop Applications & Tools
+> *Building analysis tools, loggers, and simulation software.*
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+
 ---
 
-### 📊 GitHub Özeti
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=tr" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmttcn&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmttcn&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8b949e" height="180" alt="languages" />
 </div>
 
 ---
 
-### 📫 İletişim
-
 <p align="center">
-  <a href="mailto:ahmttcn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="www.linkedin.com/in/ahmttcn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmttcn&label=Profile%20Views&color=blue&style=flat-square" alt="views" />
 </p>
