@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation" />
 </div>
 
-<h1 align="center">Merhaba, Ben Ahmet 👋</h1>
+<h1 align="center">Selam, Ben Ahmet! (ahmttcn) 👋</h1>
 <h3 align="center">Automotive Software Engineer | Embedded Systems | Reverse Engineering</h3>
 
 <p align="center">
@@ -13,36 +13,35 @@
 
 ### 👨‍💻 Hakkımda
 
-Otomotiv sektöründe gömülü sistemler ve araç ağ protokolleri üzerine uzmanlaşmış bir Yazılım Mühendisiyim. Donanım ile yazılımın kesiştiği noktada, ECU haberleşmesi ve tersine mühendislik konularında çözümler üretiyorum.
+Genellikle **gizlilik sözleşmesi (NDA)** kapsamında kurumsal otomotiv projeleri üzerinde çalışıyorum. Bu yüzden GitHub üzerindeki "Public" aktivitem, gerçek iş yükümü ve kodlama yoğunluğumu tam yansıtmayabilir.
 
-- 🔭 Şu anda **Otomotiv Haberleşme Protokolleri (CAN/UDS)** üzerine çalışıyorum.
-- 🛠️ **Low-level programming** ve **ECU Diagnostics** ana odak noktam.
-- ⚡ Yeteneklerim: **Reverse Engineering, Memory Manipulation, Protocol Analysis.**
+- 🔭 Şu anda **Otomotiv Haberleşme Protokolleri (CAN/UDS)** ve araç içi gömülü yazılımlar üzerine profesyonel çözümler geliştiriyorum.
+- 🛠️ Uzmanlık alanım: **ECU Haberleşmesi**, **Tersine Mühendislik** ve **Tanılama (Diagnostics)** araçları.
+- 💻 Hem **Gömülü (C/C++)** hem de **Masaüstü Tool (C#/.NET)** tarafında hibrit çalışıyorum.
 
 ---
 
-### 💻 Teknoloji Yığını (Tech Stack)
+### 🛠️ Teknoloji ve Protokol Yetkinlikleri
 
-**Programlama Dilleri & Platformlar**
+**💻 Yazılım Dilleri & IDE**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,linux,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,vb,git&perline=10" />
   </a>
 </p>
 
-**Otomotiv Protokolleri & Uzmanlıklar**
+**🚗 Otomotiv Protokolleri & Niş Uzmanlıklar**
 <p align="left">
   <img src="https://img.shields.io/badge/Protocol-CAN_Bus-orange?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Protocol-CAN_FD-FF5722?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Protocol-FlexRay-blue?style=for-the-badge&logo=network" />
   <img src="https://img.shields.io/badge/Diagnostics-UDS_(ISO_14229)-7952B3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Skill-Reverse_Engineering-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Legacy-Visual_Basic-512BD4?style=for-the-badge&logo=visual-studio" />
 </p>
 
 ---
 
-### 📊 GitHub Analizleri
+### 📊 GitHub Özeti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=tr" height="180" alt="stats" />
