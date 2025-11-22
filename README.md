@@ -45,9 +45,9 @@ Otomotiv sektöründe gömülü sistemler ve araç ağ protokolleri üzerine uzm
 ### 📊 GitHub Analizleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KullanıcıAdın]&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=tr" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmttcn&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=tr" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KullanıcıAdın]&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmttcn&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" alt="languages" />
 </div>
 
 ---
